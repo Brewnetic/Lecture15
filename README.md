@@ -1,4 +1,4 @@
-# Java Exceptions and Errors: A Beginner's Guide
+# Java Exceptions and Errors
 
 ## Problems in Java
 
